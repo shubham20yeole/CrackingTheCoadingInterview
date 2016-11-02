@@ -1,5 +1,5 @@
 //1.3 Given two strings, write a method to decide if one is a permutation of the other
-package StringAndArray;
+package CTCI_StringAndArray;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

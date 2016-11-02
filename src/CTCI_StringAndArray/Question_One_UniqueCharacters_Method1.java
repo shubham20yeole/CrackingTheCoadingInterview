@@ -1,7 +1,7 @@
 //1.1 Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
 // Author: Shubham Yeole
 
-package LinkedList;
+package CTCI_StringAndArray;
 public class Question_One_UniqueCharacters_Method1 {
 	public static void main(String[] args) {
 		String s[] ={"hello world", "tina", "Shubham"};

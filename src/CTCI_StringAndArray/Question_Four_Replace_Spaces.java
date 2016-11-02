@@ -3,7 +3,7 @@
 //and that you are given the "true" length of the string. (Note: if implementing in Java,
 //please use a character array so that you can perform this operation in place.)
 
-package StringAndArray;
+package CTCI_StringAndArray;
 
 public class Question_Four_Replace_Spaces {
 	public static void main(String[] args) {

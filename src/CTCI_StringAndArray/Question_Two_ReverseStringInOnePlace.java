@@ -1,6 +1,6 @@
 // 1.2 Implement a function void reverse(char* str) in C or C++ which reverses a null-terminated string.
 
-package LinkedList;
+package CTCI_StringAndArray;
 
 public class Question_Two_ReverseStringInOnePlace {
 	public static void main(String[] args) {
