@@ -7,7 +7,6 @@ public class Question_five_char_count_in_String {
 
 	public static void main(String[] args) {
 		String sample = "adsasasde";
-
 		System.out.println("Input: "+sample);
 		System.out.println("Result: "+getResult(sample));
 	}
@@ -25,9 +24,7 @@ public class Question_five_char_count_in_String {
 			if(!result.contains(""+sample.charAt(i))){
 				result = result+sample.charAt(i)+array[val];
 			}
-
 		}
-
 		return result;
 	}
 }
